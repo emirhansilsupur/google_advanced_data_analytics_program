@@ -1,4 +1,4 @@
-# Data Analysis and Statistical Analysis
+# Google Advanced Data Analytics Program 
 
 This repository contains various examples of data analysis and statistical analyses done throughout the [Google Advanced Data Analytics](https://www.coursera.org/professional-certificates/google-advanced-data-analytics). The notebooks listed below cover different data analysis topics.
 
